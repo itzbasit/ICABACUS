@@ -1,0 +1,8 @@
+{
+  "name": "IC ABACUS – Powered by Career Ready J&K",
+  "description": "Learn Faster, Calculate Smarter! Modern mental mathematics and abacus testing, training, and performance analytics platform.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
